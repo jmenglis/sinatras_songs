@@ -1,2 +1,2 @@
 # sinatras_songs
-Blueprinting objects with Ruby Classses
+Blueprinting objects with Ruby Classes
